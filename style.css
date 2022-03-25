@@ -87,6 +87,10 @@ h2 {
   letter-spacing: 1px;
   /* margin-left: ; */
 }
+.header.header_secondary {
+  background-color: var(--color-text-primary);
+  position: initial;
+}
 
 /* LANDING SECTION */
 
